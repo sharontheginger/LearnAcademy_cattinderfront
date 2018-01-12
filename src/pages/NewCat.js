@@ -43,6 +43,7 @@ class NewCat extends Component {
     return errorString === "" ? null : errorString
   }
 
+
   render() {
     return (
       <form>
